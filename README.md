@@ -50,7 +50,7 @@ A file for gmail password is required
 Laste stable version: rinex5.py
 
 # Author
-Sandrine Morey
+Sandrine Morey alias 310703
 
 # Licence
 Free licence

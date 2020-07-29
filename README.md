@@ -44,6 +44,7 @@ Prepare folders:
 Replace paths on declaration part of python programm (Source, Dest, TRansfertRGP)
 
 A gmail account is required
+
 A file for gmail password is required
 
 # Version
